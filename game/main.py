@@ -72,5 +72,4 @@ def run_game():
     if user_wins == 2:
       print('El ganador es el usuario')
       break
-
 run_game()
