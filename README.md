@@ -9,15 +9,15 @@ Gestión de Dependencias:
 - **Cómo listar las dependencias de un proyecto.**
 Actualización y eliminación de paquetes.
 Uso de archivos requirements.txt para gestionar las dependencias de un proyecto.
-Entornos Virtuales:
 
-- **Qué son los entornos virtuales y por qué son importantes.**
+- **Entornos Virtuales:**
+Qué son los entornos virtuales y por qué son importantes.
 Cómo crear y gestionar entornos virtuales utilizando herramientas como venv y virtualenv.
 Activación y desactivación de entornos virtuales.
 Aislamiento de dependencias para evitar conflictos entre proyectos.
-Buenas Prácticas:
 
-- **Estrategias para mantener un entorno de desarrollo limpio y organizado.**
+- **Buenas Prácticas:**
+Estrategias para mantener un entorno de desarrollo limpio y organizado.
 Uso de herramientas adicionales como pipenv para la gestión de entornos y dependencias.
 Cómo manejar diferentes versiones de Python en distintos proyectos.
 
